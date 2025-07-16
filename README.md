@@ -28,3 +28,17 @@ Ask to continue
  ↓           ↩️ back to loop
 EXIT
 
+
+#  SmartCart - Python CLI Shopping Cart
+
+SmartCart is a beginner-friendly **command-line shopping cart simulator** written in Python.  
+It demonstrates the use of **functions, lists, dictionaries, `*args`, `**kwargs`**, and user interaction via CLI.
+
+
+##  Features
+
+-  View product catalog with prices
+-  Add one or multiple items to the cart (`*args`)
+-  Remove specific items from the cart
+-  Checkout with customizable tax and discount (`**kwargs`)
+-  Automatically calculate final bill with subtotal, discount, and tax
